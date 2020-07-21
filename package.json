@@ -84,7 +84,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "//cdn.jsdelivr.net/gh/Sc-Softs/rvip@latest/",
+
   "jest": {
     "roots": [
       "<rootDir>/src"
@@ -137,5 +137,6 @@
     "presets": [
       "react-app"
     ]
-  }
+  }, 
+  "homepage":"."
 }
